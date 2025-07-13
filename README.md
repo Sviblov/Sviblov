@@ -2,7 +2,6 @@
 
 🌍 I love building useful tools and experimenting with new technologies on weekends. Programming is my hobby 
 
-
 ---
 
 ## 🔧 Skills
@@ -11,7 +10,6 @@
 - **Backend**: FastAPI · SQLAlchemy · asyncpg · Alembic
 - **Telegram**: Telethon, aiogram
 
----
 
 ## 📂 Featured Projects
 
@@ -24,13 +22,10 @@ A modern, fullstack starter combining a Telegram bot and a web interface
 🔗 https://github.com/Sviblov/Telegram-bot-MiniApp-template
 
 
----
-
 ## 📫 Reach me
 
 - GitHub: (https://github.com/sviblov)
 
----
 
 ## 💡 Other facts
 
