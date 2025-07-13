@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Igor
 
-<!--
-**Sviblov/Sviblov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I love building useful tools and experimenting with new technologies on weekends. Programming is my hobby applications in my free time  
+🛠️ ReactJS + TypeScript · FastAPI + PostgreSQL · Docker · Nginx
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Frontend**: React · TypeScript · Vite · Ant Design
+- **Backend**: FastAPI · SQLAlchemy · asyncpg · Alembic
+- **Authentication**: JWT · OAuth2 · Password hashing (bcrypt/passlib)
+- **DevOps**: Docker · Nginx · PostgreSQL · SSL setup
+
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 WebApp Template  
+A starter fullstack template with React+TS, FastAPI, and Docker/Nginx setup  
+🔗 https://github.com/sviblov/webapp-template
+
+### 🤖 Telegram Bot Template  
+A modern, fullstack starter combining a Telegram bot and a web interface  
+🔗 https://github.com/sviblov/telegram-bot-template *(replace with actual link if different)*
+
+
+---
+
+## 📫 Reach me
+
+- GitHub: (https://github.com/sviblov)
+
+---
+
+## 💡 Other facts
+
+- I like running marathons
