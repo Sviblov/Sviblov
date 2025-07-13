@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Igor
 
-🌍 I love building useful tools and experimenting with new technologies on weekends. Programming is my hobby applications in my free time  
-🛠️ ReactJS + TypeScript · FastAPI + PostgreSQL · Docker · Nginx
+🌍 I love building useful tools and experimenting with new technologies on weekends. Programming is my hobby 
+
 
 ---
 
@@ -9,9 +9,7 @@
 
 - **Frontend**: React · TypeScript · Vite · Ant Design
 - **Backend**: FastAPI · SQLAlchemy · asyncpg · Alembic
-- **Authentication**: JWT · OAuth2 · Password hashing (bcrypt/passlib)
-- **DevOps**: Docker · Nginx · PostgreSQL · SSL setup
-
+- **Telegram**: Telethon, aiogram
 
 ---
 
