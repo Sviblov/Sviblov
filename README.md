@@ -17,7 +17,7 @@
 
 ### 🌐 WebApp Template  
 A starter fullstack template with React+TS, FastAPI, and Docker/Nginx setup  
-🔗 https://github.com/sviblov/webapp-template
+🔗 https://github.com/Sviblov/webapp_template
 
 ### 🤖 Telegram Bot Template  
 A modern, fullstack starter combining a Telegram bot and a web interface  
